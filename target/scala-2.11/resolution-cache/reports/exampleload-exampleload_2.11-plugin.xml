@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="exampleload"
+		module="exampleload_2.11"
+		revision="1.0"
+		conf="plugin"
+		confs="compile, runtime, load.test, provided, optional, gatling, it, gatling-it, compile-internal, runtime-internal, load.test-internal, it-internal, plugin, sources, docs, pom, scala-tool"
+		date="20200629234333"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>

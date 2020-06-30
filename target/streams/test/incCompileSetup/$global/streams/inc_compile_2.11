@@ -1,0 +1,744 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+17 items
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\default\destination.class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\default\RecordedSimulation.class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\default\Registr.class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoad$$anonfun$1.class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoad$$anonfun$2$$anonfun$apply$1.class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoad$$anonfun$2.class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoad$$anonfun$3$$anonfun$apply$2.class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoad$$anonfun$3.class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoad$$anonfun$4$$anonfun$apply$3.class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoad$$anonfun$4.class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoad$.class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoad.class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\LoadScript.class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoadNew$.class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoadNew.class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\LoadScriptNew.class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\test.class
+binary dependencies:
+25 items
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-commons\jars\gatling-commons-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-core\jars\gatling-core-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-http\jars\gatling-http-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> C:\Users\asogoyan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.12.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-commons\jars\gatling-commons-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-core\jars\gatling-core-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-http\jars\gatling-http-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> C:\Users\asogoyan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.12.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-commons\jars\gatling-commons-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-core\jars\gatling-core-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-http\jars\gatling-http-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> C:\Users\asogoyan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.12.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-commons\jars\gatling-commons-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-core\jars\gatling-core-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-http\jars\gatling-http-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> C:\Users\asogoyan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.12.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-commons\jars\gatling-commons-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-core\jars\gatling-core-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-http\jars\gatling-http-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> C:\Users\asogoyan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.12.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-commons\jars\gatling-commons-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-core\jars\gatling-core-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-http\jars\gatling-http-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-jdbc\jars\gatling-jdbc-2.2.2.jar
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> C:\Users\asogoyan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+17 items
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> default.destination
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> default.RecordedSimulation
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> default.Registr
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> load.BasicLoad
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> load.BasicLoad$
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> load.BasicLoad$$anonfun$1
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> load.BasicLoad$$anonfun$2
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> load.BasicLoad$$anonfun$2$$anonfun$apply$1
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> load.BasicLoad$$anonfun$3
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> load.BasicLoad$$anonfun$3$$anonfun$apply$2
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> load.BasicLoad$$anonfun$4
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> load.BasicLoad$$anonfun$4$$anonfun$apply$3
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> load.LoadScript
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> load.BasicLoadNew
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> load.BasicLoadNew$
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> load.LoadScriptNew
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> test
+used names:
+561 items
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> ->
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> <init>
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> <refinement>
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> <repeated>
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> A
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> ActionBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> Any
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> AnyRef
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> ArrowAssoc
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> B
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> C
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> Check
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> CheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> Class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> ClassTag
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> DefaultFindCheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> Duration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> Exclude
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> Expression
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> FindCheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> FiniteDuration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> GatlingConfiguration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> Http
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> HttpCheck
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> HttpProtocolBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> HttpRequestActionBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> HttpRequestBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> Int
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> Map
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> NOT_FOR_USER_CODE
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> NonValidable
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> Nothing
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> P
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> Predef
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> R
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> Response
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> SaveAs
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> ScenarioBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> Simulation
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> String
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> StringCaster
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> T
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> Tuple2
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> TypeCaster
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> ValidatorCheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> X
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> _$7
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> acceptEncodingHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> acceptHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> acceptLanguageHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> apply
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> baseURL
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> builder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> check
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> checkBuilder2Check
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> commons
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> configuration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> core
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> default
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> destination
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> disableFollowRedirect
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> exec
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> findCheckBuilder2ValidatorCheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> gatling
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> get
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> headers
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> headers_0
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> headers_2
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> headers_3
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> http
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> httpConf
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> inferHtmlResources
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> intToFiniteDuration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> io
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> is
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> materializeClassTag
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> package
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> pause
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> resources
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> scala
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> scenario
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> scn
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> status
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> stringToExpression
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> toActionBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> userAgentHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> util
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> value2Expression
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> ->
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> <init>
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> <refinement>
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> <repeated>
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> A
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> ActionBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> Any
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> AnyRef
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> AnyTypeCaster
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> ArrowAssoc
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> B
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> Class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> ClassTag
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> Duration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> Exclude
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> Expression
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> FiniteDuration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> GatlingConfiguration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> Http
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> HttpProtocolBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> HttpRequestActionBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> HttpRequestBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> Int
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> Map
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> NOT_FOR_USER_CODE
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> NonValidable
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> Nothing
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> Predef
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> RecordedSimulation
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> ScenarioBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> Simulation
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> String
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> StringCaster
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> T
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> Tuple2
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> TypeCaster
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> X
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> _$7
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> acceptEncodingHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> acceptHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> acceptLanguageHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> apply
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> baseURL
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> builder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> commons
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> configuration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> core
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> default
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> exec
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> formParam
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> gatling
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> get
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> headers
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> headers_0
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> headers_1
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> headers_2
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> http
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> httpConf
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> inferHtmlResources
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> intToFiniteDuration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> io
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> materializeClassTag
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> package
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> pause
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> post
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> resources
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> scala
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> scenario
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> scn
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> stringToExpression
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> toActionBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> userAgentHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> util
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> ->
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> <init>
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> <refinement>
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> <repeated>
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> A
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> ActionBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> Any
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> AnyRef
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> AnyTypeCaster
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> ArrowAssoc
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> B
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> C
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> Check
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> CheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> Class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> ClassTag
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> DefaultFindCheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> Duration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> Exclude
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> Expression
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> FindCheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> FiniteDuration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> GatlingConfiguration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> Http
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> HttpCheck
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> HttpProtocolBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> HttpRequestActionBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> HttpRequestBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> Int
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> Map
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> NOT_FOR_USER_CODE
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> NonValidable
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> Nothing
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> P
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> Predef
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> R
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> Registr
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> Response
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> SaveAs
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> ScenarioBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> Simulation
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> String
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> StringCaster
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> T
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> Tuple2
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> TypeCaster
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> ValidatorCheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> X
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> _$7
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> acceptEncodingHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> acceptHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> acceptLanguageHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> apply
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> baseURL
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> builder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> check
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> checkBuilder2Check
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> commons
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> configuration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> core
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> default
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> exec
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> findCheckBuilder2ValidatorCheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> formParam
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> gatling
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> get
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> headers
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> headers_1
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> http
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> httpConf
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> inferHtmlResources
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> intToFiniteDuration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> io
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> is
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> materializeClassTag
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> package
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> pause
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> post
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> scala
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> scenario
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> scn
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> status
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> stringToExpression
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> toActionBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> userAgentHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> util
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> value2Expression
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> <byname>
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> <init>
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> <refinement>
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> <repeated>
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> A
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> ActionBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Any
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> AnyRef
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> AnyTypeCaster
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> B1
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> BasicLoad
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Boolean
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> C
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> ChainBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Char
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Check
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> CheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> ClassTag
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> DefaultFindCheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Duration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> DurationInt
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Exclude
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Expression
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> FeederBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> FindCheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> FiniteDuration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Function1
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> GatlingConfiguration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Http
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> HttpBodyJsonPathCheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> HttpBodyJsonPathOfType
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> HttpCheck
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> HttpProtocol
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> HttpProtocolBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> HttpRequestActionBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> HttpRequestBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> InjectionStep
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Int
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> JsonParsers
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> JsonPathExtractorFactory
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> LoadScript
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Map
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> NOT_FOR_USER_CODE
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> NonValidable
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> None
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Nothing
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Object
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> P
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> PopulationBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Predef
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Protocol
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> R
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> RampBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> RampInjection
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> RecordSeqFeederBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Response
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> SaveAs
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> ScenarioBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Session
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> SetUp
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Simulation
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> String
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> StringCaster
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> T
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> TypeCaster
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Unit
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> Validation
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> ValidatorCheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> X
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> _$1
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> _$7
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> acceptEncodingHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> acceptHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> acceptLanguageHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> apply
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> attributes
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> baseURL
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> basicLoad
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> builder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> check
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> checkBuilder2Check
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> circular
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> commons
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> concurrent
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> configuration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> core
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> defaultJsonParsers
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> defaultJsonPathExtractorFactory
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> duration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> during
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> exec
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> feed
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> findCheckBuilder2CheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> findCheckBuilder2ValidatorCheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> formParam
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> gatling
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> get
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> getOrElse
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> getTen
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> http
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> httpConf
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> inject
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> io
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> is
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> jsonPath
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> load
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> materializeClassTag
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> maxDuration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> minutes
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> over
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> package
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> post
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> println
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> protocol
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> protocols
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> qual$1
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> qual$2
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> qual$3
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> queryParam
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> rampUsers
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> repeat
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> saveAs
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> scala
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> scenario
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> session
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> set
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> setUp
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> ssv
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> start
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> status
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> stringToExpression
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> tmp
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> toActionBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> toHttpProtocol
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> userAgentHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> users
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> util
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> value2Expression
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> value2Success
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> x$10
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> x$11
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> x$12
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> x$4
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> x$5
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> x$6
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> x$7
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> x$8
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> x$9
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> <init>
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> <refinement>
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> <repeated>
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> A
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> ActionBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> Any
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> AnyRef
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> BasicLoad
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> BasicLoadNew
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> Boolean
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> C
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> ChainBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> Check
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> CheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> Class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> ClassTag
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> DefaultFindCheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> Duration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> DurationInt
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> Exclude
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> Expression
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> FindCheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> FiniteDuration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> GatlingConfiguration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> Http
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> HttpCheck
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> HttpProtocol
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> HttpProtocolBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> HttpRequestActionBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> HttpRequestBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> InjectionStep
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> Int
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> LoadScriptNew
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> NOT_FOR_USER_CODE
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> NonValidable
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> Nothing
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> Object
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> P
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> PopulationBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> Predef
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> Protocol
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> R
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> RampBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> RampInjection
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> Response
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> SaveAs
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> ScenarioBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> SetUp
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> Simulation
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> String
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> StringCaster
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> T
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> TypeCaster
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> ValidatorCheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> X
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> _$7
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> apply
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> baseURL
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> basicLoadNew
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> builder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> check
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> checkBuilder2Check
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> commons
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> concurrent
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> configuration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> core
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> disableFollowRedirect
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> duration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> during
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> exec
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> findCheckBuilder2ValidatorCheckBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> gatling
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> get
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> http
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> httpConf
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> inferHtmlResources
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> inject
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> io
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> is
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> load
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> materializeClassTag
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> maxDuration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> minutes
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> over
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> package
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> protocol
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> protocols
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> qual$1
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> rampUsers
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> scala
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> scenario
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> setUp
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> start
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> status
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> stringToExpression
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> toActionBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> toHttpProtocol
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> util
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> value2Expression
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> x$1
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> x$2
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> x$3
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> x$4
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> <init>
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> <refinement>
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> A
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> ActionBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> Any
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> AnyRef
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> Class
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> ClassTag
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> Duration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> Exclude
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> Expression
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> FiniteDuration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> GatlingConfiguration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> Http
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> HttpProtocolBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> HttpRequestActionBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> HttpRequestBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> Int
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> NOT_FOR_USER_CODE
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> NonValidable
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> Nothing
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> Predef
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> ScenarioBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> Simulation
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> String
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> StringCaster
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> T
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> TypeCaster
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> X
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> _$7
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> acceptEncodingHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> acceptHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> acceptLanguageHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> apply
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> baseURL
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> builder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> commons
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> concurrent
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> configuration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> core
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> duration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> exec
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> gatling
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> get
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> http
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> httpProtocol
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> inferHtmlResources
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> intToFiniteDuration
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> io
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> jdbc
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> materializeClassTag
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> package
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> pause
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> scala
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> scenario
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> scn
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> stringToExpression
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> test
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> toActionBuilder
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> userAgentHeader
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> util
+product stamps:
+17 items
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\default\destination.class -> lastModified(1593463711166)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\default\RecordedSimulation.class -> lastModified(1593463711074)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\default\Registr.class -> lastModified(1593463711121)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoad$$anonfun$1.class -> lastModified(1593463711205)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoad$$anonfun$2$$anonfun$apply$1.class -> lastModified(1593463711223)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoad$$anonfun$2.class -> lastModified(1593463711212)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoad$$anonfun$3$$anonfun$apply$2.class -> lastModified(1593463711235)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoad$$anonfun$3.class -> lastModified(1593463711228)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoad$$anonfun$4$$anonfun$apply$3.class -> lastModified(1593463711251)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoad$$anonfun$4.class -> lastModified(1593463711243)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoad$.class -> lastModified(1593463711191)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoad.class -> lastModified(1593463711174)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoadNew$.class -> lastModified(1593464270593)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\BasicLoadNew.class -> lastModified(1593464270576)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\LoadScript.class -> lastModified(1593463711268)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\load\LoadScriptNew.class -> lastModified(1593464270636)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\target\scala-2.11\test-classes\test.class -> lastModified(1593464430640)
+source stamps:
+6 items
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> hash(4894fdddc711b93dc8b0c6c95f7aa717a83f365f)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> hash(c840af354eeb0d4a29fac1867eda6049a7bbbdaf)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> hash(a0b7b8ed29323690d2a7e78c33daa8b3705751c1)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> hash(f44e2c107ee11dde49bd6ab25072e2cbeb12668c)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> hash(03088755f6e14a787c1e4d644c5516678e01ad1b)
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> hash(26b5725d1ddded9631a3b6ab0ec444afffc7efc0)
+binary stamps:
+5 items
+C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-commons\jars\gatling-commons-2.2.2.jar -> lastModified(1466085691000)
+C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-core\jars\gatling-core-2.2.2.jar -> lastModified(1466085739000)
+C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-http\jars\gatling-http-2.2.2.jar -> lastModified(1466085718000)
+C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-jdbc\jars\gatling-jdbc-2.2.2.jar -> lastModified(1466085687000)
+C:\Users\asogoyan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+5 items
+C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-commons\jars\gatling-commons-2.2.2.jar -> io.gatling.commons.Exclude
+C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-core\jars\gatling-core-2.2.2.jar -> io.gatling.core.scenario.Simulation
+C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-http\jars\gatling-http-2.2.2.jar -> io.gatling.http.request.builder.Http
+C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-jdbc\jars\gatling-jdbc-2.2.2.jar -> io.gatling.jdbc.Predef$
+C:\Users\asogoyan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.12.jar -> scala.reflect.ClassTag$
+internal apis:
+6 items
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwZVJAYwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAApc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwOOSnP3QACWhlYWRlcnNfMHNxAH4ADAeiSgt0AAZub3RpZnlzcQB+AAwYqKDjdAAJcHJvdG9jb2xzc3EAfgAMOg4JB3QABXNldFVwc3EAfgAMM/NK+XQABHdhaXRzcQB+AAzl3PSJdAANZGlzYWJsZVBhdXNlc3NxAH4ADDsQcI50AA0kYXNJbnN0YW5jZU9mc3EAfgAMlaOH13QABmVxdWFsc3NxAH4ADOEbXOl0ABFleHBvbmVudGlhbFBhdXNlc3NxAH4ADAXgN4x0AAxhc0luc3RhbmNlT2ZzcQB+AAzC7sn8dAAJaGVhZGVyc18zc3EAfgAMKafjGHQACGh0dHBDb25mc3EAfgAMFP8EVnQABmJlZm9yZXNxAH4ADHp6jhh0AAZwYXJhbXNzcQB+AAwReRIZdAAMc3luY2hyb25pemVkc3EAfgAMkEG6iHQADSRpc0luc3RhbmNlT2ZzcQB+AAyYhfwGdAAGcGF1c2Vzc3EAfgAM3ntQGHQAA3NjbnNxAH4ADJi+kKt0AA5jb25zdGFudFBhdXNlc3NxAH4ADDHVG2d0AAlub3RpZnlBbGxzcQB+AAy2Ph/TdAAMaXNJbnN0YW5jZU9mc3EAfgAMIiJD4HQACWhlYWRlcnNfMnNxAH4ADGCE+m10AAY8aW5pdD5zcQB+AAw1zl+/dAAFYWZ0ZXJzcQB+AAyLtsutdAAKYXNzZXJ0aW9uc3NxAH4ADLhC1nd0AAI9PXNxAH4ADBbmUgd0AAVjbG9uZXNxAH4ADBuSU4t0AAttYXhEdXJhdGlvbnNxAH4ADNo+1Jl0AA11bmlmb3JtUGF1c2Vzc3EAfgAMg0pTJHQACHRvU3RyaW5nc3EAfgAMeki/j3QAAiE9c3EAfgAMaI/qdnQACGdldENsYXNzc3EAfgAM2J/SGnQACHRocm90dGxlc3EAfgAMmJuIznQAAm5lc3EAfgAMrtwAhnQADGN1c3RvbVBhdXNlc3NxAH4ADOZipBh0AAtkZXN0aW5hdGlvbnNxAH4ADCtphlt0AAJlcXNxAH4ADHAkHMx0AAVTZXRVcHNxAH4ADL0N7xN0AAIjI3NxAH4ADPz8mjV0AAhmaW5hbGl6ZXNxAH4ADAnTFTR0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABNkZWZhdWx0LmRlc3RpbmF0aW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AgnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBpTAAJaW5oZXJpdGVkcQB+AGlMAAdwYXJlbnRzcQB+AGl4cQB+AIdzcQB+AIJ1cQB+AGQAAAAAc3EAfgCCdXEAfgBkAAAAAHNxAH4AgnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AhnQAClNpbXVsYXRpb25zcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAVzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAAmlvc3EAfgCfdAAHZ2F0bGluZ3NxAH4An3QABGNvcmVzcQB+AJ90AAhzY2VuYXJpb3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCgc3EAfgCTdAAGT2JqZWN0c3EAfgCXc3EAfgCadXEAfgCdAAAAA3NxAH4An3QABGphdmFzcQB+AJ90AARsYW5ncQB+AKpzcQB+AJN0AANBbnlzcQB+AJdzcQB+AJp1cQB+AJ0AAAACc3EAfgCfdAAFc2NhbGFxAH4AqnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2RlZmF1bHRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXMB1o/6dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAb0M6XFVzZXJzXGFzb2dveWFuXERlc2t0b3Bc0KLQuNC90YzQutC+0YTRhFxleGFtcGxlTG9hZC1tYXN0ZXJcZXhhbXBsZUxvYWQtbWFzdGVyXHRhcmdldFxzY2FsYS0yLjExXHRlc3QtY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEiU/d3HEbk9yLDGyV96pxeoPzZf
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwa42u5QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAApc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwUUmzUXQACWhlYWRlcnNfMHNxAH4ADOaMsQN0AAZub3RpZnlzcQB+AAwj5stldAAJcHJvdG9jb2xzc3EAfgAM6C27RXQABXNldFVwc3EAfgAMvLf96nQABHdhaXRzcQB+AAxMqOeqdAANZGlzYWJsZVBhdXNlc3NxAH4ADMxmgXd0AA0kYXNJbnN0YW5jZU9mc3EAfgAMi2i+2nQABmVxdWFsc3NxAH4ADNOt+5Z0AAloZWFkZXJzXzFzcQB+AAz2Wk1vdAARZXhwb25lbnRpYWxQYXVzZXNzcQB+AAwBmxfYdAAMYXNJbnN0YW5jZU9mc3EAfgAMT4HXPnQACGh0dHBDb25mc3EAfgAMcwYvG3QABmJlZm9yZXNxAH4ADKEsiB50AAZwYXJhbXNzcQB+AAxIw8yldAAMc3luY2hyb25pemVkc3EAfgAMo4Ggd3QADSRpc0luc3RhbmNlT2ZzcQB+AAwb6q64dAAGcGF1c2Vzc3EAfgAMfVH3dHQAA3NjbnNxAH4ADCQOLIV0AA5jb25zdGFudFBhdXNlc3NxAH4ADP9mjyl0AAlub3RpZnlBbGxzcQB+AAwSAElidAAMaXNJbnN0YW5jZU9mc3EAfgAMfHmW3HQACWhlYWRlcnNfMnNxAH4ADL7evZd0AAY8aW5pdD5zcQB+AAyAMnmQdAAFYWZ0ZXJzcQB+AAwE2zSedAAKYXNzZXJ0aW9uc3NxAH4ADA/1CYd0AAI9PXNxAH4ADKBOCzB0AAVjbG9uZXNxAH4ADLjtM4V0AAttYXhEdXJhdGlvbnNxAH4ADG0sBPV0AA11bmlmb3JtUGF1c2Vzc3EAfgAMDCIkz3QAElJlY29yZGVkU2ltdWxhdGlvbnNxAH4ADHAO28x0AAh0b1N0cmluZ3NxAH4ADJrR2q50AAIhPXNxAH4ADC1NZ0h0AAhnZXRDbGFzc3NxAH4ADMHcL710AAh0aHJvdHRsZXNxAH4ADLLxxg50AAJuZXNxAH4ADHXOwRh0AAxjdXN0b21QYXVzZXNzcQB+AAzCcrfFdAACZXFzcQB+AAxYOj6HdAAFU2V0VXBzcQB+AAzBUR6JdAACIyNzcQB+AAw52cLcdAAIZmluYWxpemVzcQB+AAyeQwzUdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAaZGVmYXVsdC5SZWNvcmRlZFNpbXVsYXRpb251cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0ACZqZGsuaW50ZXJuYWwuSG90U3BvdEludHJpbnNpY0NhbmRpZGF0ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCCc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGlMAAlpbmhlcml0ZWRxAH4AaUwAB3BhcmVudHNxAH4AaXhxAH4Ah3NxAH4AgnVxAH4AZAAAAABzcQB+AIJ1cQB+AGQAAAAAc3EAfgCCdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCGdAAKU2ltdWxhdGlvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AhnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABXNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAACaW9zcQB+AJ90AAdnYXRsaW5nc3EAfgCfdAAEY29yZXNxAH4An3QACHNjZW5hcmlvc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKBzcQB+AJN0AAZPYmplY3RzcQB+AJdzcQB+AJp1cQB+AJ0AAAADc3EAfgCfdAAEamF2YXNxAH4An3QABGxhbmdxAH4AqnNxAH4Ak3QAA0FueXNxAH4Al3NxAH4AmnVxAH4AnQAAAAJzcQB+AJ90AAVzY2FsYXEAfgCqdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHZGVmYXVsdHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcwHWj/p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABvQzpcVXNlcnNcYXNvZ295YW5cRGVza3RvcFzQotC40L3RjNC60L7RhNGEXGV4YW1wbGVMb2FkLW1hc3RlclxleGFtcGxlTG9hZC1tYXN0ZXJcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUyECvNU7rDUop+sGGftpgSae7va8=
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw8prY6gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAnc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwuloIoXQABm5vdGlmeXNxAH4ADJl7hZF0AAlwcm90b2NvbHNzcQB+AAwnRozEdAAFc2V0VXBzcQB+AAyghhxpdAAEd2FpdHNxAH4ADOwtdm90AA1kaXNhYmxlUGF1c2Vzc3EAfgAMqX78pXQADSRhc0luc3RhbmNlT2ZzcQB+AAzvV+L1dAAGZXF1YWxzc3EAfgAMRyplonQACWhlYWRlcnNfMXNxAH4ADGlkMn10ABFleHBvbmVudGlhbFBhdXNlc3NxAH4ADG/rifF0AAxhc0luc3RhbmNlT2ZzcQB+AAwSzUamdAAIaHR0cENvbmZzcQB+AAyx52P1dAAGYmVmb3Jlc3EAfgAM3iYZdHQABnBhcmFtc3NxAH4ADHxXefJ0AAxzeW5jaHJvbml6ZWRzcQB+AAxWMgw6dAANJGlzSW5zdGFuY2VPZnNxAH4ADDz5ulF0AAZwYXVzZXNzcQB+AAwXh/0LdAADc2Nuc3EAfgAMKWSXQHQADmNvbnN0YW50UGF1c2Vzc3EAfgAM5TfshHQACW5vdGlmeUFsbHNxAH4ADNl8sIF0AAdSZWdpc3Ryc3EAfgAMhJ0lrXQADGlzSW5zdGFuY2VPZnNxAH4ADAE4xt90AAY8aW5pdD5zcQB+AAylGG1GdAAFYWZ0ZXJzcQB+AAxwBbIndAAKYXNzZXJ0aW9uc3NxAH4ADL6WhSZ0AAI9PXNxAH4ADDPAobx0AAVjbG9uZXNxAH4ADI5BZCd0AAttYXhEdXJhdGlvbnNxAH4ADLkGPpl0AA11bmlmb3JtUGF1c2Vzc3EAfgAMHeT/c3QACHRvU3RyaW5nc3EAfgAMQbM0BHQAAiE9c3EAfgAMSE6CSXQACGdldENsYXNzc3EAfgAM99BepnQACHRocm90dGxlc3EAfgAMtV0spnQAAm5lc3EAfgAMgjFcynQADGN1c3RvbVBhdXNlc3NxAH4ADNHu2wh0AAJlcXNxAH4ADDEAS3Z0AAVTZXRVcHNxAH4ADMHsLGJ0AAIjI3NxAH4ADFhtR/N0AAhmaW5hbGl6ZXNxAH4ADLC/0DB0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA9kZWZhdWx0LlJlZ2lzdHJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0ACZqZGsuaW50ZXJuYWwuSG90U3BvdEludHJpbnNpY0NhbmRpZGF0ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB+c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGVMAAlpbmhlcml0ZWRxAH4AZUwAB3BhcmVudHNxAH4AZXhxAH4Ag3NxAH4AfnVxAH4AYAAAAABzcQB+AH51cQB+AGAAAAAAc3EAfgB+dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCCdAAKU2ltdWxhdGlvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AgnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABXNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAACaW9zcQB+AJt0AAdnYXRsaW5nc3EAfgCbdAAEY29yZXNxAH4Am3QACHNjZW5hcmlvc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJxzcQB+AI90AAZPYmplY3RzcQB+AJNzcQB+AJZ1cQB+AJkAAAADc3EAfgCbdAAEamF2YXNxAH4Am3QABGxhbmdxAH4ApnNxAH4Aj3QAA0FueXNxAH4Ak3NxAH4AlnVxAH4AmQAAAAJzcQB+AJt0AAVzY2FsYXEAfgCmdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHZGVmYXVsdHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcwHWj/p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABvQzpcVXNlcnNcYXNvZ295YW5cRGVza3RvcFzQotC40L3RjNC60L7RhNGEXGV4YW1wbGVMb2FkLW1hc3RlclxleGFtcGxlTG9hZC1tYXN0ZXJcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUoLe47SkyNpDSp+eMM9qos3BXUcE=
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwm/QMIwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAqc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw0HCoAnQABm5vdGlmeXNxAH4ADOXhDvF0AAlwcm90b2NvbHNzcQB+AAxxYZw3dAAFc2V0VXBzcQB+AAz6tENbdAAEd2FpdHNxAH4ADKHFaLJ0AA1kaXNhYmxlUGF1c2Vzc3EAfgAM6F54UHQADSRhc0luc3RhbmNlT2ZzcQB+AAybmXIadAAGZXF1YWxzc3EAfgAMRkRVz3QAEWV4cG9uZW50aWFsUGF1c2Vzc3EAfgAMVqB6pnQADGFzSW5zdGFuY2VPZnNxAH4ADFLm/E90AAV1c2Vyc3NxAH4ADGWC3qJ0AAhodHRwQ29uZnNxAH4ADDRZ5aN0AAZiZWZvcmVzcQB+AAyueQrGdAAGcGFyYW1zc3EAfgAMgrG7mnQADHN5bmNocm9uaXplZHNxAH4ADAp/MX90AApMb2FkU2NyaXB0c3EAfgAMEjw+73QADSRpc0luc3RhbmNlT2ZzcQB+AAy9Uz8udAAGcGF1c2Vzc3EAfgAMvhSsh3QADmNvbnN0YW50UGF1c2Vzc3EAfgAMG667IXQACW5vdGlmeUFsbHNxAH4ADEg50Lx0AAxpc0luc3RhbmNlT2ZzcQB+AAzbZ47xdAAJYmFzaWNMb2Fkc3EAfgAMweZ8/HQABjxpbml0PnNxAH4ADOfHb7l0AAZnZXRUZW5zcQB+AAzvlyqfdAAFYWZ0ZXJzcQB+AAwRbo8LdAAKYXNzZXJ0aW9uc3NxAH4ADP5Nw7h0AAI9PXNxAH4ADLdHuIl0AAVjbG9uZXNxAH4ADPXWRLN0AAlCYXNpY0xvYWRzcQB+AAwL1blVdAALbWF4RHVyYXRpb25zcQB+AAz0ur8ydAANdW5pZm9ybVBhdXNlc3NxAH4ADD5GOJ10AAh0b1N0cmluZ3NxAH4ADCaKFA90AAIhPXNxAH4ADNyKadh0AAhnZXRDbGFzc3NxAH4ADP5zdrN0AAh0aHJvdHRsZXNxAH4ADLDNlAF0AAVzdGFydHNxAH4ADCR8NK10AAJuZXNxAH4ADG0RSsR0AAxjdXN0b21QYXVzZXNzcQB+AAyyvR9TdAACZXFzcQB+AAxE9H3DdAAFU2V0VXBzcQB+AAx0z+qPdAACIyNzcQB+AAwjzmQjdAAIZmluYWxpemVzcQB+AAxHqjD4dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBreHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAPbG9hZC5Mb2FkU2NyaXB0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AhHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBrTAAJaW5oZXJpdGVkcQB+AGtMAAdwYXJlbnRzcQB+AGt4cQB+AIlzcQB+AIR1cQB+AGYAAAAAc3EAfgCEdXEAfgBmAAAAAHNxAH4AhHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AiHQAClNpbXVsYXRpb25zcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAVzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAAmlvc3EAfgChdAAHZ2F0bGluZ3NxAH4AoXQABGNvcmVzcQB+AKF0AAhzY2VuYXJpb3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCic3EAfgCVdAAGT2JqZWN0c3EAfgCZc3EAfgCcdXEAfgCfAAAAA3NxAH4AoXQABGphdmFzcQB+AKF0AARsYW5ncQB+AKxzcQB+AJV0AANBbnlzcQB+AJlzcQB+AJx1cQB+AJ8AAAACc3EAfgChdAAFc2NhbGFxAH4ArHNxAH4AaHEAfgB1dXEAfgB2AAAAAHNxAH4AeAB0AA5sb2FkLkJhc2ljTG9hZHVxAH4AewAAAAB+cQB+AH10AAZNb2R1bGV1cQB+AIEAAAABdAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcQB+AIRxAH4AinNxAH4AhHNxAH4AjHNxAH4AhHVxAH4AZgAAAABzcQB+AIR1cQB+AGYAAAAAc3EAfgCEdXEAfgCTAAAAAnNxAH4AlXEAfgCuc3EAfgCZc3EAfgCcdXEAfgCfAAAAA3NxAH4AoXEAfgCzc3EAfgChcQB+ALVxAH4ArHNxAH4AlXEAfgC3c3EAfgCZc3EAfgCcdXEAfgCfAAAAAnNxAH4AoXEAfgC8cQB+AKx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AARsb2Fkc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFzAdaP+nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AG9DOlxVc2Vyc1xhc29nb3lhblxEZXNrdG9wXNCi0LjQvdGM0LrQvtGE0YRcZXhhbXBsZUxvYWQtbWFzdGVyXGV4YW1wbGVMb2FkLW1hc3Rlclx0YXJnZXRcc2NhbGEtMi4xMVx0ZXN0LWNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT0TiwQfuEd3km9arJQcuLL6xJmjA==
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwQGuYewAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAApc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hww3VhB3QABm5vdGlmeXNxAH4ADLh5Ivl0AAxiYXNpY0xvYWROZXdzcQB+AAy2Zk1zdAAJcHJvdG9jb2xzc3EAfgAMHoFTdHQABXNldFVwc3EAfgAMDGvQ+3QABHdhaXRzcQB+AAwMwtI2dAANZGlzYWJsZVBhdXNlc3NxAH4ADNckhyJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMkI/AxXQABmVxdWFsc3NxAH4ADIsdJo50ABFleHBvbmVudGlhbFBhdXNlc3NxAH4ADFrWJqV0AAxhc0luc3RhbmNlT2ZzcQB+AAy8ijxpdAAIaHR0cENvbmZzcQB+AAzVGljUdAAGYmVmb3Jlc3EAfgAM+05Lv3QABnBhcmFtc3NxAH4ADIhOKlt0AAxzeW5jaHJvbml6ZWRzcQB+AAxN5w0LdAANJGlzSW5zdGFuY2VPZnNxAH4ADEZ9v610AAZwYXVzZXNzcQB+AAyREVpcdAAOY29uc3RhbnRQYXVzZXNzcQB+AAwPb1cFdAAJbm90aWZ5QWxsc3EAfgAMRGOSR3QADEJhc2ljTG9hZE5ld3NxAH4ADNM7NQV0AAxpc0luc3RhbmNlT2ZzcQB+AAy1vXfKdAAGPGluaXQ+c3EAfgAMTkjHhnQABmdldFRlbnNxAH4ADCCPtxF0AAVhZnRlcnNxAH4ADPD57Pp0AAphc3NlcnRpb25zc3EAfgAMYG+qZXQAAj09c3EAfgAM6gA++XQADUxvYWRTY3JpcHROZXdzcQB+AAwwVDiVdAAFY2xvbmVzcQB+AAx9wnE8dAALbWF4RHVyYXRpb25zcQB+AAwG4NStdAANdW5pZm9ybVBhdXNlc3NxAH4ADPJ/FdJ0AAh0b1N0cmluZ3NxAH4ADD/jhJ50AAIhPXNxAH4ADNVyerZ0AAhnZXRDbGFzc3NxAH4ADFvb+ed0AAh0aHJvdHRsZXNxAH4ADPXAzU50AAVzdGFydHNxAH4ADCFsWuB0AAJuZXNxAH4ADJBilQZ0AAxjdXN0b21QYXVzZXNzcQB+AAzraP7CdAACZXFzcQB+AAwhONewdAAFU2V0VXBzcQB+AAxZ+XUpdAACIyNzcQB+AAwZWMA3dAAIZmluYWxpemVzcQB+AAwekn3kdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAASbG9hZC5Mb2FkU2NyaXB0TmV3dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AgnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBpTAAJaW5oZXJpdGVkcQB+AGlMAAdwYXJlbnRzcQB+AGl4cQB+AIdzcQB+AIJ1cQB+AGQAAAAAc3EAfgCCdXEAfgBkAAAAAHNxAH4AgnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AhnQAClNpbXVsYXRpb25zcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAVzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAAmlvc3EAfgCfdAAHZ2F0bGluZ3NxAH4An3QABGNvcmVzcQB+AJ90AAhzY2VuYXJpb3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCgc3EAfgCTdAAGT2JqZWN0c3EAfgCXc3EAfgCadXEAfgCdAAAAA3NxAH4An3QABGphdmFzcQB+AJ90AARsYW5ncQB+AKpzcQB+AJN0AANBbnlzcQB+AJdzcQB+AJp1cQB+AJ0AAAACc3EAfgCfdAAFc2NhbGFxAH4AqnNxAH4AZnEAfgBzdXEAfgB0AAAAAHNxAH4AdgB0ABFsb2FkLkJhc2ljTG9hZE5ld3VxAH4AeQAAAAB+cQB+AHt0AAZNb2R1bGV1cQB+AH8AAAABdAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcQB+AIJxAH4AiHNxAH4AgnNxAH4AinNxAH4AgnVxAH4AZAAAAABzcQB+AIJ1cQB+AGQAAAAAc3EAfgCCdXEAfgCRAAAAAnNxAH4Ak3EAfgCsc3EAfgCXc3EAfgCadXEAfgCdAAAAA3NxAH4An3EAfgCxc3EAfgCfcQB+ALNxAH4AqnNxAH4Ak3EAfgC1c3EAfgCXc3EAfgCadXEAfgCdAAAAAnNxAH4An3EAfgC6cQB+AKp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AARsb2Fkc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFzAd8nGHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AG9DOlxVc2Vyc1xhc29nb3lhblxEZXNrdG9wXNCi0LjQvdGM0LrQvtGE0YRcZXhhbXBsZUxvYWQtbWFzdGVyXGV4YW1wbGVMb2FkLW1hc3Rlclx0YXJnZXRcc2NhbGEtMi4xMVx0ZXN0LWNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQDCIdV9uFKeHweTWRMVRZnjgGtGw==
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwZEeM+gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAmc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwm16VgXQABm5vdGlmeXNxAH4ADGaLyyB0AAR0ZXN0c3EAfgAMZ6NVu3QACXByb3RvY29sc3NxAH4ADJGjoEJ0AAVzZXRVcHNxAH4ADDOgvpZ0AAR3YWl0c3EAfgAMVCftO3QADWRpc2FibGVQYXVzZXNzcQB+AAxI8/ccdAANJGFzSW5zdGFuY2VPZnNxAH4ADGo7vdV0AAZlcXVhbHNzcQB+AAxvW59udAARZXhwb25lbnRpYWxQYXVzZXNzcQB+AAydGDrEdAAMYXNJbnN0YW5jZU9mc3EAfgAMIiogo3QABmJlZm9yZXNxAH4ADHTe5gZ0AAZwYXJhbXNzcQB+AAyIJHYDdAAMc3luY2hyb25pemVkc3EAfgAMygp443QADSRpc0luc3RhbmNlT2ZzcQB+AAzNhl2ndAAGcGF1c2Vzc3EAfgAMgOSgynQAA3NjbnNxAH4ADGmvURZ0AA5jb25zdGFudFBhdXNlc3NxAH4ADOnD7r90AAlub3RpZnlBbGxzcQB+AAyhLQCidAAMaXNJbnN0YW5jZU9mc3EAfgAMRUgZCnQABjxpbml0PnNxAH4ADJfL7ph0AAVhZnRlcnNxAH4ADCkX0H50AAphc3NlcnRpb25zc3EAfgAM81mIZHQAAj09c3EAfgAMomn2rnQABWNsb25lc3EAfgAMBmVfKHQAC21heER1cmF0aW9uc3EAfgAMnWFwNHQADXVuaWZvcm1QYXVzZXNzcQB+AAyU5OSjdAAIdG9TdHJpbmdzcQB+AAy1XrGLdAACIT1zcQB+AAwfEedTdAAMaHR0cFByb3RvY29sc3EAfgAMxnlIRXQACGdldENsYXNzc3EAfgAMVdzYx3QACHRocm90dGxlc3EAfgAMjmXNjnQAAm5lc3EAfgAMlJcsHHQADGN1c3RvbVBhdXNlc3NxAH4ADPVHZwt0AAJlcXNxAH4ADGFLNbB0AAVTZXRVcHNxAH4ADIEvCrB0AAIjI3NxAH4ADFE+p0V0AAhmaW5hbGl6ZXNxAH4ADO9P74h0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AEXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AY0wACWluaGVyaXRlZHEAfgBjTAAHcGFyZW50c3EAfgBjeHEAfgCAc3EAfgB7dXEAfgBeAAAAAHNxAH4Ae3VxAH4AXgAAAABzcQB+AHt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AH90AApTaW11bGF0aW9uc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB/c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAFc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAJpb3NxAH4AmHQAB2dhdGxpbmdzcQB+AJh0AARjb3Jlc3EAfgCYdAAIc2NlbmFyaW9zcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AmXNxAH4AjHQABk9iamVjdHNxAH4AkHNxAH4Ak3VxAH4AlgAAAANzcQB+AJh0AARqYXZhc3EAfgCYdAAEbGFuZ3EAfgCjc3EAfgCMdAADQW55c3EAfgCQc3EAfgCTdXEAfgCWAAAAAnNxAH4AmHQABXNjYWxhcQB+AKN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcwHhmo51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABvQzpcVXNlcnNcYXNvZ295YW5cRGVza3RvcFzQotC40L3RjNC60L7RhNGEXGV4YW1wbGVMb2FkLW1hc3RlclxleGFtcGxlTG9hZC1tYXN0ZXJcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUJrVyXR3d7ZYxo7arDsREr//H78A=
+external apis:
+0 items
+source infos:
+6 items
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\destination.scala -> 
+AAAAAAAAAAA=
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\RecordedSimulation.scala -> 
+AAAAAAAAAAA=
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\default\Registr.scala -> 
+AAAAAAAAAAA=
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScript.scala -> 
+AAAAAAAAAAA=
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\LoadScriptNew.scala -> 
+AAAAAAAAAAA=
+C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master\src\test\scala\load\test.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcwHWj/p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAb0M6XFVzZXJzXGFzb2dveWFuXERlc2t0b3Bc0KLQuNC90YzQutC+0YTRhFxleGFtcGxlTG9hZC1tYXN0ZXJcZXhhbXBsZUxvYWQtbWFzdGVyXHRhcmdldFxzY2FsYS0yLjExXHRlc3QtY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcwHdC+B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAb0M6XFVzZXJzXGFzb2dveWFuXERlc2t0b3Bc0KLQuNC90YzQutC+0YTRhFxleGFtcGxlTG9hZC1tYXN0ZXJcZXhhbXBsZUxvYWQtbWFzdGVyXHRhcmdldFxzY2FsYS0yLjExXHRlc3QtY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcwHeECV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAb0M6XFVzZXJzXGFzb2dveWFuXERlc2t0b3Bc0KLQuNC90YzQutC+0YTRhFxleGFtcGxlTG9hZC1tYXN0ZXJcZXhhbXBsZUxvYWQtbWFzdGVyXHRhcmdldFxzY2FsYS0yLjExXHRlc3QtY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcwHeobd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAb0M6XFVzZXJzXGFzb2dveWFuXERlc2t0b3Bc0KLQuNC90YzQutC+0YTRhFxleGFtcGxlTG9hZC1tYXN0ZXJcZXhhbXBsZUxvYWQtbWFzdGVyXHRhcmdldFxzY2FsYS0yLjExXHRlc3QtY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcwHfJxh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAb0M6XFVzZXJzXGFzb2dveWFuXERlc2t0b3Bc0KLQuNC90YzQutC+0YTRhFxleGFtcGxlTG9hZC1tYXN0ZXJcZXhhbXBsZUxvYWQtbWFzdGVyXHRhcmdldFxzY2FsYS0yLjExXHRlc3QtY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcwHhmo51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAb0M6XFVzZXJzXGFzb2dveWFuXERlc2t0b3Bc0KLQuNC90YzQutC+0YTRhFxleGFtcGxlTG9hZC1tYXN0ZXJcZXhhbXBsZUxvYWQtbWFzdGVyXHRhcmdldFxzY2FsYS0yLjExXHRlc3QtY2xhc3Nlc3QAAS8=

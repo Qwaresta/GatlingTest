@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="ATC-13337" name="load.LoadScript" tests="1" errors="0" failures="1" skipped="0" time="1651.127">
+                     <properties>
+      <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/><property name="java.specification.version" value="11"/><property name="sun.cpu.isalist" value="amd64"/><property name="sun.jnu.encoding" value="Cp1251"/><property name="sun.arch.data.model" value="64"/><property name="sbt.supershell" value="false"/><property name="java.vendor.url" value="https://www.jetbrains.com/"/><property name="sun.boot.library.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.4\jbr\bin"/><property name="sun.java.command" value="C:\Users\asogoyan\.IntelliJIdea2019.2\config\plugins\Scala\launcher\sbt-launch.jar --addPluginSbtFile=C:\Users\asogoyan\AppData\Local\Temp\idea.sbt idea-shell"/><property name="jdk.debug" value="release"/><property name="sun.stderr.encoding" value="cp866"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="java.version.date" value="2019-07-16"/><property name="java.home" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.4\jbr"/><property name="file.separator" value="\"/><property name="java.vm.compressedOopsMode" value="32-bit"/><property name="line.separator" value="
+"/><property name="sun.stdout.encoding" value="cp866"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="user.script" value=""/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="java.runtime.version" value="11.0.4+10-b304.77"/><property name="user.name" value="asogoyan"/><property name="file.encoding" value="UTF-8"/><property name="java.io.tmpdir" value="C:\Users\asogoyan\AppData\Local\Temp\"/><property name="java.version" value="11.0.4"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/><property name="sun.os.patch.level" value="Service Pack 1"/><property name="java.library.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.4\jbr\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Gradle\gradle-5.3.1\bin;C:\Program Files\Git\cmd;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\strawberry\c\bin;C:\strawberry\perl\bin;C:\Program Files (x86)\sbt\\bin;C:\apache-maven-3.6.1\bin;C:\Users\asogoyan\AppData\Local\Programs\Fiddler;."/><property name="java.vendor" value="JetBrains s.r.o"/><property name="sun.io.unicode.encoding" value="UnicodeLittle"/><property name="sun.desktop" value="windows"/><property name="java.class.path" value="C:\Users\asogoyan\.IntelliJIdea2019.2\config\plugins\Scala\launcher\sbt-launch.jar"/><property name="java.vm.vendor" value="JetBrains s.r.o"/><property name="user.variant" value=""/><property name="jline.shutdownhook" value="false"/><property name="user.timezone" value="Europe/Moscow"/><property name="os.name" value="Windows 7"/><property name="java.vm.specification.version" value="11"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="user.country" value="RU"/><property name="sun.cpu.endian" value="little"/><property name="user.home" value="C:\Users\asogoyan"/><property name="user.language" value="ru"/><property name="sbt.version" value="0.13.18"/><property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/><property name="jline.esc.timeout" value="0"/><property name="path.separator" value=";"/><property name="os.version" value="6.1"/><property name="java.runtime.name" value="OpenJDK Runtime Environment"/><property name="sbt.log.noformat" value="true"/><property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/><property name="java.vendor.url.bug" value="https://youtrack.jetbrains.com"/><property name="user.dir" value="C:\Users\asogoyan\Desktop\Тинькофф\exampleLoad-master\exampleLoad-master"/><property name="os.arch" value="amd64"/><property name="idea.managed" value="true"/><property name="java.vm.info" value="mixed mode, sharing"/><property name="java.vm.version" value="11.0.4+10-b304.77"/><property name="java.class.version" value="55.0"/>
+    </properties>
+                     <testcase classname="load.LoadScript" name="LoadScript" time="1651.127">
+                                                 <failure message="java.lang.IllegalArgumentException: Could not locate feeder file: file C:\test_users.csv doesn't exist" type="sbt.ForkMain$ForkError">sbt.ForkMain$ForkError: java.lang.IllegalArgumentException: Could not locate feeder file: file C:\test_users.csv doesn't exist
+	at io.gatling.core.feeder.FeederSupport$class.feederBuilder(FeederSupport.scala:53)
+	at io.gatling.core.Predef$.feederBuilder(Predef.scala:22)
+	at io.gatling.core.feeder.FeederSupport$class.separatedValues(FeederSupport.scala:44)
+	at io.gatling.core.Predef$.separatedValues(Predef.scala:22)
+	at io.gatling.core.feeder.FeederSupport$class.separatedValues(FeederSupport.scala:41)
+	at io.gatling.core.Predef$.separatedValues(Predef.scala:22)
+	at io.gatling.core.feeder.FeederSupport$class.ssv(FeederSupport.scala:36)
+	at io.gatling.core.Predef$.ssv(Predef.scala:22)
+	at load.LoadScript.&lt;init&gt;(LoadScript.scala:8)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at java.base/java.lang.Class.newInstance(Class.java:584)
+	at io.gatling.app.Gatling$.io$gatling$app$Gatling$$$anonfun$1(Gatling.scala:41)
+	at io.gatling.app.Gatling$lambda$1.apply(Gatling.scala:41)
+	at io.gatling.app.Gatling$lambda$1.apply(Gatling.scala:41)
+	at io.gatling.app.Gatling.run(Gatling.scala:92)
+	at io.gatling.app.Gatling.runIfNecessary(Gatling.scala:75)
+	at io.gatling.app.Gatling.start(Gatling.scala:65)
+	at io.gatling.app.Gatling$.start(Gatling.scala:57)
+	at io.gatling.app.Gatling$.fromArgs(Gatling.scala:49)
+	at io.gatling.sbt.GatlingTask.liftedTree1$1(GatlingTask.scala:51)
+	at io.gatling.sbt.GatlingTask.execute(GatlingTask.scala:50)
+	at sbt.ForkMain$Run$2.call(ForkMain.java:296)
+	at sbt.ForkMain$Run$2.call(ForkMain.java:286)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+</failure>
+                                               </testcase>
+                     <system-out></system-out>
+                     <system-err></system-err>
+                   </testsuite>
