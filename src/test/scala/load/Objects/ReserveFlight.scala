@@ -1,12 +1,13 @@
 package load.Objects
 package load.default
-
-import io.gatling.core.Predef._
-import io.gatling.http.Predef.http
-
 import scala.concurrent.duration._
 
+import io.gatling.core.Predef._
+import io.gatling.http.Predef._
+
 object ReserveFlight {
+
+  //Headers
   val UpgradeInsecureRequestsHeaders = Map("Upgrade-Insecure-Requests" -> "1")
 
   val AcceptHeaders = Map("Accept" -> "image/webp,*/*")
@@ -14,41 +15,59 @@ object ReserveFlight {
   val OriginHeaders = Map(
     "Origin" -> "https://blazedemo.com",
     "Upgrade-Insecure-Requests" -> "1")
-  val reserveflight =exec(http("request_0")
+  //Feeders
+  val DepartureCity = csv("DepartureCity.csv").random
+  val DestinationCity = csv("DestinationCity.csv").shuffle
+  val Name =("Qwaresta")
+
+
+  val reserveflight =exec(
+    http("request_0")
     .get("/")
     .headers(UpgradeInsecureRequestsHeaders)
-    .resources(http("request_1")
+    .resources(http("Favicon")
       .get("/favicon.ico")
-      .headers(AcceptHeaders)))
+      .headers(AcceptHeaders))
+       .check(status.is(200))
+  )
     .pause(38)
-    .exec(http("request_2")
+    .exec(
+      http("Reserve")
       .post("/reserve.php")
       .headers(OriginHeaders)
-      .formParam("fromPort", "Paris")
-      .formParam("toPort", "Buenos Aires"))
+      .formParam("fromPort", DepartureCity)
+      .formParam("toPort", DestinationCity)
+        .check(status.is(200))
+    )
     .pause(16)
-    .exec(http("request_3")
+    .exec(
+      http("Purchase")
       .post("/purchase.php")
       .headers(OriginHeaders)
       .formParam("flight", "234")
       .formParam("price", "432.98")
       .formParam("airline", "United Airlines")
-      .formParam("fromPort", "Paris")
-      .formParam("toPort", "Buenos Aires"))
+      .formParam("fromPort", DepartureCity)
+      .formParam("toPort", DestinationCity)
+        .check(status.is(200))
+    )
     .pause(49)
-    .exec(http("request_4")
+    .exec(
+      http("Confirmation")
       .post("/confirmation.php")
+      .check(status.is(200))
       .headers(OriginHeaders)
       .formParam("_token", "")
-      .formParam("inputName", "Qwaresta")
-      .formParam("address", "QwaStreet")
-      .formParam("city", "QwaCity")
-      .formParam("state", "QwaState")
+      .formParam("inputName", Name)
+      .formParam("address", Name+"Street")
+      .formParam("city", Name+"City")
+      .formParam("state", Name+"State")
       .formParam("zipCode", "8888")
       .formParam("cardType", "visa")
       .formParam("creditCardNumber", "7777777")
       .formParam("creditCardMonth", "11")
       .formParam("creditCardYear", "2020")
-      .formParam("nameOnCard", "Qwaresta"))
-
+      .formParam("nameOnCard", Name)
+        .check(status.is(200))
+    )
 }
