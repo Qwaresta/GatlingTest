@@ -5,44 +5,44 @@
 		organisation="exampleload"
 		module="exampleload_2.11"
 		revision="1.0"
-		conf="load.test-internal"
-		confs="compile, runtime, load.test, provided, optional, gatling, it, gatling-it, compile-internal, runtime-internal, load.test-internal, it-internal, plugin, sources, docs, pom, scala-tool"
-		date="20200629234333"/>
+		conf="test-internal"
+		confs="compile, runtime, test, provided, optional, gatling, it, gatling-it, compile-internal, runtime-internal, test-internal, it-internal, plugin, sources, docs, pom, scala-tool"
+		date="20200702001106"/>
 	<dependencies>
-		<module organisation="io.gatling" name="gatling-load.test-framework">
+		<module organisation="io.gatling" name="gatling-test-framework">
 			<revision name="2.2.2" status="release" pubdate="20160616170234" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://gatling.io" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="61">
 				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
-				<metadata-artifact status="no" details="" size="2981" time="0" location="C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-load.test-framework\ivy-2.2.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/gatling/gatling-load.test-framework/2.2.2/gatling-load.test-framework-2.2.2.pom"/>
-				<caller organisation="exampleload" name="exampleload_2.11" conf="load.test, compile, provided, load.test-internal, runtime, optional" rev="2.2.2" rev-constraint-default="2.2.2" rev-constraint-dynamic="2.2.2" callerrev="1.0"/>
+				<metadata-artifact status="no" details="" size="2981" time="0" location="C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-test-framework\ivy-2.2.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/gatling/gatling-test-framework/2.2.2/gatling-test-framework-2.2.2.pom"/>
+				<caller organisation="exampleload" name="exampleload_2.11" conf="test, compile, provided, test-internal, runtime, optional" rev="2.2.2" rev-constraint-default="2.2.2" rev-constraint-dynamic="2.2.2" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="gatling-load.test-framework" type="jar" ext="jar" status="no" details="" size="29922" time="0" location="C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-load.test-framework\jars\gatling-load.test-framework-2.2.2.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/gatling/gatling-load.test-framework/2.2.2/gatling-load.test-framework-2.2.2.jar"/>
+					<artifact name="gatling-test-framework" type="jar" ext="jar" status="no" details="" size="29922" time="0" location="C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-test-framework\jars\gatling-test-framework-2.2.2.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/gatling/gatling-test-framework/2.2.2/gatling-test-framework-2.2.2.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
-		<module organisation="org.scala-sbt" name="load.test-interface">
+		<module organisation="org.scala-sbt" name="test-interface">
 			<revision name="1.0" status="release" pubdate="20130629024435" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-sbt.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="62">
-				<license name="BSD" url="https://github.com/sbt/load.test-interface/blob/master/LICENSE"/>
-				<metadata-artifact status="no" details="" size="2621" time="0" location="C:\Users\asogoyan\.ivy2\cache\org.scala-sbt\load.test-interface\ivy-1.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/load.test-interface/1.0/load.test-interface-1.0.pom"/>
-				<caller organisation="io.gatling" name="gatling-load.test-framework" conf="default, compile, runtime, master" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="2.2.2"/>
+				<license name="BSD" url="https://github.com/sbt/test-interface/blob/master/LICENSE"/>
+				<metadata-artifact status="no" details="" size="2621" time="0" location="C:\Users\asogoyan\.ivy2\cache\org.scala-sbt\test-interface\ivy-1.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.pom"/>
+				<caller organisation="io.gatling" name="gatling-test-framework" conf="default, compile, runtime, master" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="2.2.2"/>
 				<artifacts>
-					<artifact name="load.test-interface" type="jar" ext="jar" status="no" details="" size="14755" time="0" location="C:\Users\asogoyan\.ivy2\cache\org.scala-sbt\load.test-interface\jars\load.test-interface-1.0.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/load.test-interface/1.0/load.test-interface-1.0.jar"/>
+					<artifact name="test-interface" type="jar" ext="jar" status="no" details="" size="14755" time="0" location="C:\Users\asogoyan\.ivy2\cache\org.scala-sbt\test-interface\jars\test-interface-1.0.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.scala-lang" name="scala-reflect">
-			<revision name="2.11.12" status="release" pubdate="20171103043736" resolver="public" artresolver="public" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.12/" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="5">
+			<revision name="2.11.12" status="release" pubdate="20171103043736" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.12/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="5">
 				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
-				<metadata-artifact status="successful" details="" size="1573" time="205" location="C:\Users\asogoyan\.ivy2\cache\org.scala-lang\scala-reflect\ivy-2.11.12.xml" searched="true" original-local-location="C:\Users\asogoyan\.ivy2\cache\org.scala-lang\scala-reflect\ivy-2.11.12.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.pom"/>
+				<metadata-artifact status="no" details="" size="2864" time="0" location="C:\Users\asogoyan\.ivy2\cache\org.scala-lang\scala-reflect\ivy-2.11.12.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.pom"/>
 				<caller organisation="com.softwaremill.quicklens" name="quicklens_2.11" conf="compile, runtime" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="1.4.7"/>
 				<caller organisation="io.gatling" name="gatling-commons" conf="compile, runtime" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="2.2.2"/>
 				<caller organisation="com.dongxiguo" name="fastring_2.11" conf="compile, runtime" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="0.2.4"/>
 				<caller organisation="com.typesafe.scala-logging" name="scala-logging_2.11" conf="compile, runtime" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="3.4.0"/>
 				<artifacts>
-					<artifact name="scala-reflect" type="jar" ext="jar" status="successful" details="" size="4623075" time="1073" location="C:\Users\asogoyan\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.12.jar">
+					<artifact name="scala-reflect" type="jar" ext="jar" status="no" details="" size="4623075" time="0" location="C:\Users\asogoyan\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.12.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar"/>
 					</artifact>
 				</artifacts>
@@ -52,7 +52,7 @@
 			<revision name="2.2.2" status="release" pubdate="20160616171332" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://gatling.io" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="1">
 				<license name="Gatling Highcharts License" url="https://raw.githubusercontent.com/gatling/gatling-highcharts/master/LICENSE"/>
 				<metadata-artifact status="no" details="" size="3192" time="0" location="C:\Users\asogoyan\.ivy2\cache\io.gatling.highcharts\gatling-charts-highcharts\ivy-2.2.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/gatling/highcharts/gatling-charts-highcharts/2.2.2/gatling-charts-highcharts-2.2.2.pom"/>
-				<caller organisation="exampleload" name="exampleload_2.11" conf="load.test, compile, provided, load.test-internal, runtime, optional" rev="2.2.2" rev-constraint-default="2.2.2" rev-constraint-dynamic="2.2.2" callerrev="1.0"/>
+				<caller organisation="exampleload" name="exampleload_2.11" conf="test, compile, provided, test-internal, runtime, optional" rev="2.2.2" rev-constraint-default="2.2.2" rev-constraint-dynamic="2.2.2" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="gatling-charts-highcharts" type="jar" ext="jar" status="no" details="" size="217410" time="0" location="C:\Users\asogoyan\.ivy2\cache\io.gatling.highcharts\gatling-charts-highcharts\jars\gatling-charts-highcharts-2.2.2.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/gatling/highcharts/gatling-charts-highcharts/2.2.2/gatling-charts-highcharts-2.2.2.jar"/>
@@ -113,7 +113,7 @@
 				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
 				<metadata-artifact status="no" details="" size="3661" time="0" location="C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-app\ivy-2.2.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/gatling/gatling-app/2.2.2/gatling-app-2.2.2.pom"/>
 				<caller organisation="io.gatling.highcharts" name="gatling-charts-highcharts" conf="default, compile, runtime, master" rev="2.2.2" rev-constraint-default="2.2.2" rev-constraint-dynamic="2.2.2" callerrev="2.2.2"/>
-				<caller organisation="io.gatling" name="gatling-load.test-framework" conf="default, compile, runtime, master" rev="2.2.2" rev-constraint-default="2.2.2" rev-constraint-dynamic="2.2.2" callerrev="2.2.2"/>
+				<caller organisation="io.gatling" name="gatling-test-framework" conf="default, compile, runtime, master" rev="2.2.2" rev-constraint-default="2.2.2" rev-constraint-dynamic="2.2.2" callerrev="2.2.2"/>
 				<artifacts>
 					<artifact name="gatling-app" type="jar" ext="jar" status="no" details="" size="88866" time="0" location="C:\Users\asogoyan\.ivy2\cache\io.gatling\gatling-app\jars\gatling-app-2.2.2.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/gatling/gatling-app/2.2.2/gatling-app-2.2.2.jar"/>
@@ -855,11 +855,11 @@
 			</revision>
 		</module>
 		<module organisation="org.scala-lang" name="scala-library">
-			<revision name="2.11.12" status="release" pubdate="20171103043730" resolver="public" artresolver="public" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.12/" downloaded="true" searched="true" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="0">
+			<revision name="2.11.12" status="release" pubdate="20171103043730" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.12/" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="0">
 				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
-				<metadata-artifact status="successful" details="" size="1428" time="322" location="C:\Users\asogoyan\.ivy2\cache\org.scala-lang\scala-library\ivy-2.11.12.xml" searched="true" original-local-location="C:\Users\asogoyan\.ivy2\cache\org.scala-lang\scala-library\ivy-2.11.12.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.pom"/>
+				<metadata-artifact status="no" details="" size="2688" time="0" location="C:\Users\asogoyan\.ivy2\cache\org.scala-lang\scala-library\ivy-2.11.12.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.pom"/>
 				<caller organisation="io.gatling" name="gatling-jms" conf="compile, runtime" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="2.2.2"/>
-				<caller organisation="exampleload" name="exampleload_2.11" conf="load.test, compile, provided, load.test-internal, runtime, optional" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="1.0"/>
+				<caller organisation="exampleload" name="exampleload_2.11" conf="test, compile, provided, test-internal, runtime, optional" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="1.0"/>
 				<caller organisation="org.scala-lang.modules" name="scala-xml_2.11" conf="compile, runtime" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="1.0.5"/>
 				<caller organisation="com.github.scopt" name="scopt_2.11" conf="compile, runtime" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="3.5.0"/>
 				<caller organisation="org.scala-lang.modules" name="scala-java8-compat_2.11" conf="compile, runtime" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="0.8.0-RC1"/>
@@ -867,7 +867,7 @@
 				<caller organisation="io.gatling.highcharts" name="gatling-charts-highcharts" conf="default, compile, runtime, master" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="2.2.2"/>
 				<caller organisation="io.gatling" name="gatling-commons" conf="compile, runtime" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="2.2.2"/>
 				<caller organisation="io.gatling" name="jsonpath_2.11" conf="compile, runtime" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="0.6.7"/>
-				<caller organisation="io.gatling" name="gatling-load.test-framework" conf="default, compile, runtime, master" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="2.2.2"/>
+				<caller organisation="io.gatling" name="gatling-test-framework" conf="default, compile, runtime, master" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="2.2.2"/>
 				<caller organisation="io.gatling" name="gatling-jdbc" conf="compile, runtime" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="2.2.2"/>
 				<caller organisation="io.gatling" name="gatling-app" conf="compile, runtime" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="2.2.2"/>
 				<caller organisation="io.gatling" name="gatling-charts" conf="compile, runtime" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="2.2.2"/>
@@ -885,7 +885,7 @@
 				<caller organisation="org.scala-lang.modules" name="scala-parser-combinators_2.11" conf="compile, runtime" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="1.0.4"/>
 				<caller organisation="io.gatling" name="gatling-metrics" conf="compile, runtime" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="2.2.2"/>
 				<artifacts>
-					<artifact name="scala-library" type="jar" ext="jar" status="successful" details="" size="5749423" time="2269" location="C:\Users\asogoyan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.12.jar">
+					<artifact name="scala-library" type="jar" ext="jar" status="no" details="" size="5749423" time="0" location="C:\Users\asogoyan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.12.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar"/>
 					</artifact>
 				</artifacts>

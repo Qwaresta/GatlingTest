@@ -4,7 +4,7 @@
 		module="exampleload_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20200629234333"
+		publication="20200702001106"
 	>
 		<description>
 		exampleLoad
@@ -13,15 +13,15 @@
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
 		<conf name="runtime" visibility="public" description="" extends="compile"/>
-		<conf name="load.test" visibility="public" description="" extends="runtime"/>
+		<conf name="test" visibility="public" description="" extends="runtime"/>
 		<conf name="provided" visibility="public" description=""/>
 		<conf name="optional" visibility="public" description=""/>
-		<conf name="gatling" visibility="public" description="" extends="load.test"/>
+		<conf name="gatling" visibility="public" description="" extends="test"/>
 		<conf name="it" visibility="public" description="" extends="runtime"/>
 		<conf name="gatling-it" visibility="public" description="" extends="it"/>
 		<conf name="compile-internal" visibility="private" description="" extends="compile,optional,provided"/>
 		<conf name="runtime-internal" visibility="private" description="" extends="runtime,optional"/>
-		<conf name="load.test-internal" visibility="private" description="" extends="load.test,optional,provided"/>
+		<conf name="test-internal" visibility="private" description="" extends="test,optional,provided"/>
 		<conf name="it-internal" visibility="private" description="" extends="it,optional,provided"/>
 		<conf name="plugin" visibility="private" description=""/>
 		<conf name="sources" visibility="public" description=""/>
@@ -38,7 +38,7 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.11.12" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.11.12" conf="scala-tool->default,optional(default);compile->default(compile)"/>
-		<dependency org="io.gatling.highcharts" name="gatling-charts-highcharts" rev="2.2.2" conf="load.test->default(compile)"/>
-		<dependency org="io.gatling" name="gatling-load.test-framework" rev="2.2.2" conf="load.test->default(compile)"/>
+		<dependency org="io.gatling.highcharts" name="gatling-charts-highcharts" rev="2.2.2" conf="test->default(compile)"/>
+		<dependency org="io.gatling" name="gatling-test-framework" rev="2.2.2" conf="test->default(compile)"/>
 	</dependencies>
 </ivy-module>

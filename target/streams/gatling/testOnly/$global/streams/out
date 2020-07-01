@@ -4,11 +4,41 @@
 [debug] Forking tests - parallelism = false
 [debug] javaOptions: List(-Dsbt.supershell=false, -Djdk.debug=release, -Dsbt.version=0.13.18, -Dsbt.log.noformat=true, -Didea.managed=true, -server, -Xmx1G, -XX:+UseG1GC, -XX:MaxGCPauseMillis=30, -XX:G1HeapRegionSize=16m, -XX:InitiatingHeapOccupancyPercent=75, -XX:+ParallelRefProcEnabled, -XX:+PerfDisableSharedMem, -XX:+AggressiveOpts, -XX:+OptimizeStringConcat, -XX:+HeapDumpOnOutOfMemoryError, -Djava.net.preferIPv4Stack=true, -Djava.net.preferIPv6Addresses=false)
 [debug] Forking tests - parallelism = false
-[debug] javaOptions: List(-Dsbt.supershell=false, -Djdk.debug=release, -Dsbt.version=0.13.18, -Dsbt.log.noformat=true, -Didea.managed=true, -server, -Xmx1G, -XX:+UseG1GC, -XX:MaxGCPauseMillis=30, -XX:G1HeapRegionSize=16m, -XX:InitiatingHeapOccupancyPercent=75, -XX:+ParallelRefProcEnabled, -XX:+PerfDisableSharedMem, -XX:+AggressiveOpts, -XX:+OptimizeStringConcat, -XX:+HeapDumpOnOutOfMemoryError, -Djava.net.preferIPv4Stack=true, -Djava.net.preferIPv6Addresses=false)
-[debug] Forking tests - parallelism = false
-[debug] javaOptions: List(-Dsbt.supershell=false, -Djdk.debug=release, -Dsbt.version=0.13.18, -Dsbt.log.noformat=true, -Didea.managed=true, -server, -Xmx1G, -XX:+UseG1GC, -XX:MaxGCPauseMillis=30, -XX:G1HeapRegionSize=16m, -XX:InitiatingHeapOccupancyPercent=75, -XX:+ParallelRefProcEnabled, -XX:+PerfDisableSharedMem, -XX:+AggressiveOpts, -XX:+OptimizeStringConcat, -XX:+HeapDumpOnOutOfMemoryError, -Djava.net.preferIPv4Stack=true, -Djava.net.preferIPv6Addresses=false)
-[debug] Forking tests - parallelism = false
-[debug] javaOptions: List(-Dsbt.supershell=false, -Djdk.debug=release, -Dsbt.version=0.13.18, -Dsbt.log.noformat=true, -Didea.managed=true, -server, -Xmx1G, -XX:+UseG1GC, -XX:MaxGCPauseMillis=30, -XX:G1HeapRegionSize=16m, -XX:InitiatingHeapOccupancyPercent=75, -XX:+ParallelRefProcEnabled, -XX:+PerfDisableSharedMem, -XX:+AggressiveOpts, -XX:+OptimizeStringConcat, -XX:+HeapDumpOnOutOfMemoryError, -Djava.net.preferIPv4Stack=true, -Djava.net.preferIPv6Addresses=false)
-[debug] Forking tests - parallelism = false
+[debug] Create a single-thread test executor
+[debug] Runner for io.gatling.sbt.GatlingFramework produced 1 initial tasks for 1 tests.
+[debug]   Running TaskDef(load.Scenarios.Reliability, sbt.ForkMain$SubclassFingerscan@3190a31, false, [SuiteSelector])
+[error] io.gatling.core.session.el.ElParserException: Failed to parse */* with error 'class [B cannot be cast to class [C ([B and [C are in module java.base of loader 'bootstrap')'
+[error] 	at io.gatling.core.session.el.ElCompiler.parseEl(ElCompiler.scala:249)
+[error] 	at io.gatling.core.session.el.ElCompiler$.parse(ElCompiler.scala:171)
+[error] 	at io.gatling.core.session.el.ElCompiler$.compile(ElCompiler.scala:174)
+[error] 	at io.gatling.core.session.el.package$El$.el$extension(package.scala:26)
+[error] 	at io.gatling.core.ValidationImplicits$class.stringToExpression(ValidationImplicits.scala:48)
+[error] 	at io.gatling.core.Predef$.stringToExpression(Predef.scala:22)
+[error] 	at load.Scenarios.Reliability.<init>(Reliability.scala:20)
+[error] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[error] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[error] 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[error] 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+[error] 	at java.base/java.lang.Class.newInstance(Class.java:584)
+[error] 	at io.gatling.app.Gatling$.io$gatling$app$Gatling$$$anonfun$1(Gatling.scala:41)
+[error] 	at io.gatling.app.Gatling$lambda$1.apply(Gatling.scala:41)
+[error] 	at io.gatling.app.Gatling$lambda$1.apply(Gatling.scala:41)
+[error] 	at io.gatling.app.Gatling.run(Gatling.scala:92)
+[error] 	at io.gatling.app.Gatling.runIfNecessary(Gatling.scala:75)
+[error] 	at io.gatling.app.Gatling.start(Gatling.scala:65)
+[error] 	at io.gatling.app.Gatling$.start(Gatling.scala:57)
+[error] 	at io.gatling.app.Gatling$.fromArgs(Gatling.scala:49)
+[error] 	at io.gatling.sbt.GatlingTask.liftedTree1$1(GatlingTask.scala:51)
+[error] 	at io.gatling.sbt.GatlingTask.execute(GatlingTask.scala:50)
+[error] 	at sbt.ForkMain$Run$2.call(ForkMain.java:296)
+[error] 	at sbt.ForkMain$Run$2.call(ForkMain.java:286)
+[error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+[error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[error] 	at java.base/java.lang.Thread.run(Thread.java:834)
+[error] Simulation Reliability failed.
+[debug]     Produced 0 nested tasks and 1 events.
 [info] Simulation(s) execution ended.
-[info] No tests to run for gatling:testOnly
+[error] Failed tests:
+[error] 	load.Scenarios.Reliability
+[error] (gatling:testOnly) sbt.TestsFailedException: Tests unsuccessful

@@ -1,9 +1,21 @@
 package load.Objects
 package load.default
-import scala.concurrent.duration._
-
+import io.gatling.core.feeder.RecordSeqFeederBuilder
 import io.gatling.core.Predef._
+import io.gatling.core.feeder.RecordSeqFeederBuilder
+import io.gatling.core.structure.ChainBuilder
+import io.gatling.core.structure.ScenarioBuilder
+import io.gatling.http.protocol.HttpProtocolBuilder
 import io.gatling.http.Predef._
+import io.gatling.core.scenario.Simulation
+import scala.util.Random
+import java.time.LocalDateTime
+import java.time.temporal.ChronoUnit
+
+import scala.language.postfixOps
+import io.gatling.jdbc.Predef._
+
+import scala.concurrent.duration._
 
 object ReserveFlight {
 
@@ -18,11 +30,12 @@ object ReserveFlight {
   //Feeders
   val DepartureCity = csv("DepartureCity.csv").random
   val DestinationCity = csv("DestinationCity.csv").shuffle
+  val CardType = csv("CardType.csv").random
   val Name =("Qwaresta")
-
+val ThinkTime = 10
 
   val reserveflight =exec(
-    http("request_0")
+    http("StartPage")
     .get("/")
     .headers(UpgradeInsecureRequestsHeaders)
     .resources(http("Favicon")
@@ -30,7 +43,9 @@ object ReserveFlight {
       .headers(AcceptHeaders))
        .check(status.is(200))
   )
-    .pause(38)
+    .pause(ThinkTime)
+     feed(DepartureCity)
+     feed(DestinationCity)
     .exec(
       http("Reserve")
       .post("/reserve.php")
@@ -38,20 +53,24 @@ object ReserveFlight {
       .formParam("fromPort", DepartureCity)
       .formParam("toPort", DestinationCity)
         .check(status.is(200))
+        .check(regex("""value="(\d)" name="flight""").saveAs("flight"))
+        .check(regex("""value="(\d...)" name="price""").saveAs("price"))
+        .check(regex("""value="(.*)" name="airline""").saveAs("airline"))
     )
-    .pause(16)
+    .pause(ThinkTime)
     .exec(
       http("Purchase")
       .post("/purchase.php")
       .headers(OriginHeaders)
-      .formParam("flight", "234")
-      .formParam("price", "432.98")
-      .formParam("airline", "United Airlines")
+      .formParam("flight", "${flight}")
+      .formParam("price", "${price}")
+      .formParam("airline", "${airline}")
       .formParam("fromPort", DepartureCity)
       .formParam("toPort", DestinationCity)
         .check(status.is(200))
     )
-    .pause(49)
+    .pause(ThinkTime)
+     feed(CardType)
     .exec(
       http("Confirmation")
       .post("/confirmation.php")
@@ -63,7 +82,7 @@ object ReserveFlight {
       .formParam("city", Name+"City")
       .formParam("state", Name+"State")
       .formParam("zipCode", "8888")
-      .formParam("cardType", "visa")
+      .formParam("cardType", CardType)
       .formParam("creditCardNumber", "7777777")
       .formParam("creditCardMonth", "11")
       .formParam("creditCardYear", "2020")

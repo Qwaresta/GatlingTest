@@ -6,8 +6,8 @@
 		module="exampleload_2.11"
 		revision="1.0"
 		conf="optional"
-		confs="compile, runtime, load.test, provided, optional, gatling, it, gatling-it, compile-internal, runtime-internal, load.test-internal, it-internal, plugin, sources, docs, pom, scala-tool"
-		date="20200629234333"/>
+		confs="compile, runtime, test, provided, optional, gatling, it, gatling-it, compile-internal, runtime-internal, test-internal, it-internal, plugin, sources, docs, pom, scala-tool"
+		date="20200702001106"/>
 	<dependencies>
 	</dependencies>
 </ivy-report>
